@@ -6,7 +6,6 @@ From Face to Emoji using Deep Learning
 
 This project is a fun and interactive application that maps real-time facial expressions to corresponding emojis using computer vision and deep learning. It enables dynamic and emotion-aware emoji overlays through a web interface, making human-computer interaction more expressive.
 
-Created as part of an academic project at **Euromed University of Fes**, under the **Image Processing** course taught by Prof. **Oumaima Moutik**.
 
 ---
 
@@ -48,7 +47,7 @@ Created as part of an academic project at **Euromed University of Fes**, under t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/image-to-emoji.git
+git clone https://github.com/HRAFXX/image-to-emoji.git
 cd image-to-emoji
 ```
 
@@ -92,7 +91,8 @@ Open [http://localhost:5000](http://localhost:5000) to try it out.
 - Live webcam feed shows real-time emoji overlay.
 - Emotions like **happy**, **sad**, and **angry** are recognized best.
 
-![Demo Preview](insert-demo-image-or-gif-here)
+![Demo Preview](![demo1](https://github.com/user-attachments/assets/f127b4b4-27d6-415c-bff9-f80893119ec3)
+![demo2](https://github.com/user-attachments/assets/255d1426-9f2b-4f01-adae-5c5e848d4074))
 
 ---
 
@@ -290,8 +290,7 @@ Simply create this directory and move your Python files, emoji assets, and front
 
 ## 👨‍🏫 Authors
 
-Achraf Gebli  
-Aymen El Achhab  
-Aymen Jabbar
+*[HRAFXX](https://github.com/HRAFXX)*   
+*[Aymenelachhab](https://github.com/Aymenelachhab)*  
+*[Aymenn-ux](https://github.com/Aymenn-ux)* 
 
-**Euromed University of Fes – 2025**
