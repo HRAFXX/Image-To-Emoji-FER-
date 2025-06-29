@@ -284,8 +284,6 @@ loading app.py…]()
 
 ```
 
-Simply create this directory and move your Python files, emoji assets, and frontend templates there. Update paths in your code as needed.
-
 ---
 
 ## 👨‍🏫 Authors
